@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Current: Tech Advisor for the Medical VR team at [Easley-Dunn Productions](https://easleydunnproductions.com/temp_index.html)
+* Current: XR Advisor for the Medical VR team at [Easley-Dunn Productions](https://easleydunnproductions.com/temp_index.html)
 * 2019-2023: Teaching Assistant for the AR/VR/MR course and Mobile Games course
   * AR/VR/MR: Equipment Manager and Student Team Advisor
   * Mobile Games: Restructured course & Introduced new Lectures focused on Innovation.

@@ -49,7 +49,9 @@ It'd be interesting to make a game (perhaps a card game) that can be played whil
 ## Class Pass
 When I am with my girlfriend, we also take advantage of [Class Pass](https://classpass.com/) to try a variety of classes. With my girlfriend, I have tried yoga, hot yoga, dancing, boxing, soul cycling, etc. It's a good way to find something that you enjoy. Especially while it has the first month free, I'd recommend going to as many different classes in that month to really find what works for you. 
 
+<!-- 
 This is my [referral link](https://classpass.com/refer/K0DT8NFU9) if you want to use it.
+-->
 
 <div id='creative'>
 </div>
@@ -70,5 +72,5 @@ I've been working on my own tabletop game called [For Terra](https://docs.google
 ### Chinese Charcuterie Board
 Have you ever wondered what a Chinese charcuterie board would look like? Well, I did, so I made one for a friend's birthday. It already featured an Ostrich Egg, so marinated eggs (ludan 滷蛋) were natural fit other than preserved meat. It also involves a lot of soy products.
 
-<img src="../images/hobbies/charcuterie1.jpg" alt="preserved meat of the charcuterie board" width="400"/>
-<img src="../images/hobbies/charcuterie2.jpg" alt="ostrich egg and preserved eggs of the charcuterie board" width="400"/>
+<img src="../images/hobbies/charcuterie1-400.jpg" alt="preserved meat of the charcuterie board" width="400"/>
+<img src="../images/hobbies/charcuterie2-400.jpg" alt="ostrich egg and preserved eggs of the charcuterie board" width="400"/>

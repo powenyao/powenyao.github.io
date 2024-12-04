@@ -15,3 +15,20 @@ collection: portfolio
 
 Led a team of 30 people on a networked multiplayer action game as part of USC's Advanced Game Project class.
 Presented at USC GamePipe Tech showcase
+
+
+[TtS initial pitch deck](https://docs.google.com/presentation/d/1z_aBxedZhOEjRjdUNyL5lrpqrgLtUku-MwtRsbycX7Y/edit#slide=id.g141b0820_00)
+
+[TtS initial pitch doc](https://docs.google.com/document/d/18-RTzCs24soNJ-h8cj4zkC4ZClAX7QcS9O9z5m0JDCs/edit?tab=t.0#heading=h.ybshstjxu1ur)
+
+2014 Fall Midterm Toward the Stars
+https://www.youtube.com/watch?v=WVzmWS9JAAM&t=244s
+
+TowardTheStars
+https://www.youtube.com/watch?v=RHPukoCbXGE&t=725s
+
+Toward The Stars Fall 2014
+https://www.youtube.com/watch?v=d76dYlp71u0
+
+Toward The Stars Spring 2015
+https://www.youtube.com/watch?v=6BPAvF7ilEw

@@ -6,27 +6,37 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can find my articles on my <a href="{{site.author.googlescholar}}"><i class="fas fa-fw fa-link" aria-hidden="true"></i>Google Scholar profile</a>.</div>
 {% endif %}
 
-My main area of research is **User Interface and User Interaction in Extended Reality**
-Primarily, it manifests in my work on the Virtual Equipment System. I have dabbled a bit into **Artificial Intelligence, Machine Learning, Computer Vision** I also dabbled a bit in **Text Entry**
+My main research area is User Interface & User Interaction in Extended Reality (XR), 
+primarily manifested in the Virtual Equipment System. 
+
+I also explored novel interaction techniques at the intersection of XR with students I mentor 
+in combination with Machine Learning, Natural Language Processing, Computer Vision, 
+or Text Entry.
+
+---
 
 <!--(Links to pdf will be added after checking authors rights)-->
 <!--<i class="fa-regular fa-file"></i>-->
 
-Virtual Equipment System
+**Virtual Equipment System**
 * <a href="https://doi.org/10.1007/978-3-030-50729-9_19">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a> 
   Designing Virtual Equipment Systems for VR
 * <a href="https://doi.org/10.1145/3385959.3421723">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://www.youtube.com/watch?v=LxQe_id1b9o">
+  <i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>
   Interfacing with sensory options using a Virtual Equipment System
 * <a href="https://doi.org/10.1007/978-3-030-78642-7_48">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a> 
   Virtual Equipment System: expansion to address alternate contexts
 * <a href="https://doi.org/10.1109/VRW52623.2021.00256">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://www.youtube.com/watch?v=RazSyF9W1nU">
+  <i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>
   Virtual Equipment System: Face Mask and Voodoo Doll for User Privacy and Self-Expression Options in Virtual Reality
 * <a href="https://doi.org/10.1007/978-3-031-05939-1_9">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
@@ -36,35 +46,64 @@ Virtual Equipment System
   Virtual Equipment System: Toward Bag of Holding and Other Extradimensional Storage in Extended Reality
   
 
-Machine Learning
+**Machine Learning**
 * <a href="https://doi.org/10.1145/3485279.3485306">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://www.youtube.com/watch?v=sxZ52EbNGOk">
+  <i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>
   Virtual equipment system: toward peripersonal equipment slots with machine learning
 * <a href="https://doi.org/10.1145/3485279.348530">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://youtu.be/fIc8kDsGu6M">
+  <i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>
   Toward Using Machine Learning-Based Motion Gesture for 3D Text Input
 * <a href="https://doi.org/10.1145/3485279.3485305">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://youtu.be/YODJRvhy8zY">
+  <i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>
   Toward Predicting User Waist Location From VR Headset and Controllers Through Machine Learning
 * <a href="10.1109/VRW55335.2022.00195">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://www.youtube.com/watch?v=nKgjwGd8ZOs">
+  <i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>
   Toward Using Multi-Modal Machine Learning for User Behavior Prediction in Simulated Smart Home for Extended Reality
+  
+  * <a href="https://youtu.be/3O0-ejG8wg0"><i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>Bonus Video
 * <a href="https://doi.org/10.1007/978-3-031-05939-1_7">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   Using Multi-modal Machine Learning for User Behavior Prediction in Simulated Smart Home for Extended Reality
 
 
-Text Entry
+**Text Entry**
 * <a href="https://doi.org/10.1145/3385959.34217">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   Punch typing: Alternative method for text entry in virtual reality
 * <a href="10.1109/VRW55335.2022.00295">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://youtu.be/3U6LZ25O-xc">
+  <i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>
   Flick Typing: Toward A New XR Text Input System Based on 3D Gestures and Machine Learning
 * <a href="https://doi.org/10.1007/978-3-031-05939-1_26">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://youtu.be/Hv5FTk1aQq4">
+  <i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>
   Flick Typing: A New VR Text Input System Based on Space Gestures
 
+**General**
+* <a href="https://link.springer.com/chapter/10.1007/978-3-031-36004-6_47">
+  <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  Toward a Gesture System Architecture in Extended Reality Based on a Multi-dimensional Taxonomy of Gestures
+  
+* <a href="https://link.springer.com/chapter/10.1007/978-3-030-78642-7_47">
+  <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  Virtual Control Interface: A System for Exploring AR and IoT Multimodal Interactions Within a Simulated Virtual Environment
+    
+  * <a href="https://youtu.be/vk4rNfy3JGo"><i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a> Related Video
+* <a href="https://ieeexplore.ieee.org/abstract/document/9090566">
+  <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
+  <a href="https://youtu.be/6IJxpR0d8hQ">
+  <i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>
+  Adjustable Pointer in Virtual Reality for Ergonomic Interaction
 
 {% include base_path %}
 
