@@ -46,7 +46,7 @@ You can fight it together, but only one team will get the benefits.
 That doesn't really seem like the teams have an incentive to cooperate. I get no benefit from you killing the dragon.
 I am only there to stop you from getting the buff and that I get the buff instead.
 
-TM: AE is a form of coopetitiion.
+TM: AE is a form of coopetition.
 We are all working towards impacting a common goal, though our contribution will decide the victor.
 As we work towards the common goal, the game/world state will change, allowing better cards to be played,
 thus your action, which you want to do to help you win, can also help me win.
@@ -58,14 +58,14 @@ This puts TM: AE in a different design space and play space
 than [wargames](https://boardgamegeek.com/boardgamesubdomain/4664/wargames) or Eurogames.
 
 Other than the coopetition, I think I really enjoyed the tableau building aspect.
-During late game, when you have lots of cards on the tableau that grant you actions
-and you can do one action after another for big combos.
+During late game, when you have lots of cards on the tableau that grant you actions.
+You can do one action after another for big combos, which feels great.
 What was a very slow process of terraforming all of a sudden becomes a race to the end as each player have grown.
 It makes you feel like you(r faction) have really grown and become powerful.
 
 For better or for worse, TM: AE does not feature spatial locations that player can interact with.
 That means there are less for players to think about.
-You don't have to worry where your card goes, it simply goes into the tableau and you benefit from having them.
+You don't have to worry where your card goes, it simply goes into the tableau, and you benefit from having them.
 This shifts the player attention onto other matters.
 Its more macro than micro.
 Playing some games where you have to do base building, sometimes I get tired of worrying about the layout.

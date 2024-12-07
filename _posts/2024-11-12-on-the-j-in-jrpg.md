@@ -7,8 +7,7 @@ He asked if I agreed that the J stands for Japanese Media.
 Post in Chinese. To be translated."
 tags:
   - Game
-  - JRPG
-  - 
+  - JRPG 
 ---
 
 My thoughts after a friend shared [The Entire history of Japanese RPGs](https://www.youtube.com/watch?v=EhQamvbfDxc).
@@ -38,7 +37,7 @@ Japanese是用來追加形容RPG還是單獨一個詞 (Japanese(-made) action ga
 RPG, 而變成像是之前人們用JRPG來形容的遊戲變為基準。 比如說這個RPG玩法類似最終幻想系列。 主角都是先定義好的（職業， 個性)，
 隨著遊戲進展看劇情。 故事分支自由度低。 回合制戰鬥， 等。
 
-然而你會發現這個也會有很多問題。 因為一開始JRPG的定義就只有Japanese-made RPG, 所以光是最終幻想系列裡面， 有一些特性其實不是一致的。
+然而你會發現這個也會有很多問題。 因為JRPG一開始的定義就只有Japanese-made RPG, 所以光是最終幻想系列裡面， 有一些特性其實不是一致的。
 並不是每個最終幻想的戰鬥都是回合制。 最終幻想1的主角團是玩家自己選。 沒有什麼個性， 等。
 
 如果你看所有JRPG的話而不是主流的勇者鬥惡龍跟最終幻想， 那更難找到一致點了。這個你影片可能看到很多， 我就不講了

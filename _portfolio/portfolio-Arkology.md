@@ -50,7 +50,7 @@ Example
       The user can also place menus on different locations of the chandlier based on the socket system.
 
 <b>Tailored User Interface</b>
-<br>User Interfaces that the system modify based on what's known about the user (e.g., user height, arm length, etc)
+<br>User Interfaces that the system modify based on what's known about the user (e.g., user height, arm length, etc.)
 
 Example
 
@@ -65,7 +65,7 @@ Example
 Example:
 
 * [Unit Health Circle](https://youtu.be/KoWxXwPk2WE?t=22) is akin to unit health bar. Placed at the bottom of the table
-  to delineate the units health from a 3d space to a 2d plane, irregardless of the unit's position on the y-axis.
+  to delineate the units health from a 3d space to a 2d plane, regardless of the unit's position on the y-axis.
 * [Proxy Units](https://youtu.be/KoWxXwPk2WE?t=29) are ghostly representations of the user's military Units.
   As they are symbolic representations of something physical, they cannot attack or take damage.
   However, the player can interact with ghosts units to give orders to the units that they symbolically represent.
@@ -89,12 +89,12 @@ converge.
 [Arkology Spring 2017](https://www.youtube.com/watch?v=_GCB7feWOCg)
 
 <figure style="float:left; max-width: 350px">
-<br><img src='../../images/portfolio/Arkposter_West_Compressed-350.jpg' width="350" height="500" style="float:left" alt="Poster for GDC">
+<br><img src='/images/portfolio/Arkposter_West_Compressed-350.jpg' width="350" height="500" style="float:left" alt="Poster for GDC">
 <figcaption></figcaption>
 </figure>
 
 <figure style="float:right; max-width: 350px">
-<br><img src='../../images/portfolio/Arkposter_Tokyo_compressed-350.jpg' width="350" height="500" style="float:center" alt="Poster for Tokyo Indie Fest">
+<br><img src='/images/portfolio/Arkposter_Tokyo_compressed-350.jpg' width="350" height="500" style="float:right" alt="Poster for Tokyo Indie Fest">
 <figcaption></figcaption>
 </figure>
 

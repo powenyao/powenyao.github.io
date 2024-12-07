@@ -91,7 +91,7 @@ and [The Crew: Mission Deep Sea](https://boardgamegeek.com/boardgame/324856/the-
 Of recent, I feel my vision is getting worse from looking at screen too much, so I wanted to find some hobbies other
 than video games.
 That hobby turns out to be Tabletop Games. Tabletop Games were always close to me with my interests in video game design
-and my time playing the Tabletop Roleplaying Game Shadowrun in college.
+and my time playing the Tabletop Role-playing Game Shadowrun in college.
 
 Whereas before I have primarily focused on cooperative games, now I'm broadening my relationship with Tabletop Games.
 
@@ -106,16 +106,16 @@ Have you ever wondered what a Chinese charcuterie board would look like? Well, I
 birthday. It already featured an Ostrich Egg, so marinated eggs (ludan 滷蛋) were natural fit other than preserved meat.
 It also involves a lot of soy products.
 
-<img src="../images/hobbies/charcuterie1-400.jpg" alt="preserved meat of the charcuterie board" width="400"/>
-<img src="../images/hobbies/charcuterie2-400.jpg" alt="ostrich egg and preserved eggs of the charcuterie board" width="400"/>
+<img src="/images/hobbies/charcuterie1-400.jpg" alt="preserved meat of the charcuterie board" width="400"/>
+<img src="/images/hobbies/charcuterie2-400.jpg" alt="ostrich egg and preserved eggs of the charcuterie board" width="400"/>
 
 ### Sous Vide, Searzall, and other Gadgets
+<img src="/images/hobbies/sousvide-searzall-500.jpg" alt="Blowtorching on the sous vide-ed steak with Searzall" width="500" style="float:right"/>
 
-<img src="../images/hobbies/sousvide-searzall-500.jpg" alt="Blowtorching on the sous vide-ed steak with Searzall" width="500" style="float:right"/>
 I like to play with gadgets to make up for my cooking skills. 
 Sous Vide cooking enables convenience and consistency for cooking a steak. 
 At the same time, it allows results not possible with other cooking methods.
 
 Searzall is blowtorch attachment. Think shower heads, but for fire instead of water. 
-It distribute the flame more evenly across the target. 
-This provides an alternate method for [Mailiard Reaction](https://en.wikipedia.org/wiki/Maillard_reaction) in addition to the common pan fry method.
+It distributes the flame more evenly across the target. 
+This provides an alternate method for [Maillard Reaction](https://en.wikipedia.org/wiki/Maillard_reaction) in addition to the common pan fry method.

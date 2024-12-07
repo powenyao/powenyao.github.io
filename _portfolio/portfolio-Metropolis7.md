@@ -47,4 +47,4 @@ The lab was taught by <a href="https://www.linkedin.com/in/vincentdiamante/">
 
 # Footnote
 
-[^1]: Sorry, Vincent, I still can't remember which way to pronounce "Monaco."
+[^1]: Sorry, Vincent, I still have trouble remembering how to pronounce "Monaco."

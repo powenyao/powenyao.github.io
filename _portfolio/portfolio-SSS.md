@@ -1,5 +1,5 @@
 ---
-title: "School of Spatial Sorcery"
+title: "School of Spatial Sorcery (SSS)"
 excerpt: "School of Spatial Sorcery - An Ongoing Sandbox Environment for Exploration of Spatial User Interactions
 <br/><img src='../images/portfolio/sss-teaser.png' width=\"500\">"
 date: "2024-01-31"
@@ -7,7 +7,9 @@ collection: portfolio
 ---
 
 <iframe width="1691" height="763" src="https://www.youtube.com/embed/G_pU9nwEo5g" title="School of Spatial Sorcery Video Figure" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Video](https://www.youtube.com/watch?v=G_pU9nwEo5g)
+
+<!-- [Video](https://www.youtube.com/watch?v=G_pU9nwEo5g) -->
+
 
 # Introduction
 
@@ -32,3 +34,9 @@ applied to other tasks. For example, 3D painting applications make use of brushe
 qualities such as color, texture, width, etc. The same spatial interaction could be applied to 3D painting for the user
 to quickly select brushes of different qualities for further user interactions.
 
+# Media
+<iframe width="1691" height="763" src="https://www.youtube.com/embed/H5GWSQNK_WQ" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Experience 
+
+<iframe width="1691" height="763" src="https://www.youtube.com/embed/DC3bTxMMF8A" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Walkthrough

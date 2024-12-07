@@ -13,7 +13,7 @@ collection: portfolio
 <br>
 <a href="https://vinaygupta23.itch.io/spell-crafter">
 <i class="fas fa-fw fa-gamepad" aria-hidden="true">
-</i>Play on Itchi.io</a>
+</i>Play on itch.io</a>
 <br>
 <a href="https://github.com/powenyao/SpellCrafter">
 <i class="fas fa-fw fa-link" aria-hidden="true">
@@ -41,7 +41,7 @@ The theme of Global Game Jam 2023 is **Root**. We interpret this as finding the 
 each other.
 
 A game based on spell customization. Players will be given a series of challenges and must figure out the appropriate
-spell to overcome the challenge. The challenge may be solved in various ways similar to Zachatronic style games. Players
+spell to overcome the challenge. The challenge may be solved in various ways similar to Zachatronics style games. Players
 can optimize in different ways based on their own personal preferences.
 
 Planning for the game started when the theme was revealed, but the majority of the code was done during the 48 hours

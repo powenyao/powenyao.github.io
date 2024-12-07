@@ -12,14 +12,14 @@ Thoughts after reading "The Game is Not the Rules"
 by [James Ernest](https://boardgamegeek.com/boardgamedesigner/61/james-ernest)
 from [The Kobold Guide to Board Game Design](https://www.goodreads.com/book/show/12612706-the-kobold-guide-to-board-game-design).
 
-I remember early at the start of my game dev journey, professor Zyda would show Nevermind's GDD as what to follow
+I remember early at the start of my game dev journey, professor Zyda would show the GDD of the game Nevermind as what to follow
 that and other GDD would inevitably have something like:
 
 > Target Audience:
 >
 > Primary: Adults!(18+) who are fans of psychological horror games
 >
-> Secondary: Adults (18+) who are interested in learning how to better manage and cope with everyday stress."
+> Secondary: Adults (18+) who are interested in learning how to better manage and cope with everyday stress.
 
 At that time, I probably thought wow game design documents have to be so formal, I don't even know what my target
 audience is other than me. I don't know what kind of audience are out there. There is so much to learn.
@@ -42,12 +42,12 @@ Other than these fundamentals, however, what makes a good watch is highly subjec
 we are back to target audience.
 
 Some may want the ability to see time for multiple locations (for business, for distant relationship). Others may want
-the cheapest watch. My girlfriend says she just don't like having something on her wrist. Maybe an ideal watch would be
+the cheapest watch. My girlfriend says she just doesn't like having something on her wrist. Maybe an ideal watch would be
 something that just 'floats' around her.
 
 In these cases of what makes a good watch to a specific person, could individual parts start to matter? When Bob the
 businessman says "I like how my watch shows the current time in Los Angeles, Tokyo, and Paris." It's about the important
-value of showing different time but it may also be about the specific part of having 3 time presented in easily legible
+value of showing different time, but it may also be about the specific part of having 3 time presented in easily legible
 manner. Perhaps in this case we can argue whether he likes 3 analog clock hand displays or 3 digital numeric display as
 there are multiple ways to achieve simultaneous presentation of time. If we know more about Bob, we might know that he
 never really learned to read clock hands as a kid and vastly prefer seeing time in military time due to his military
@@ -58,7 +58,7 @@ watch good for Bob.
 
 I shared that there are at least 8 types of fun with some of you.
 https://gnomestew.com/the-eight-types-of-fun/
-I think its a trick question to say all good games are ___ other than 'fun'. Even 'fun' is a loaded word with multiple
+I think it's a trick question to say all good games are ___ other than 'fun'. Even 'fun' is a loaded word with multiple
 types.
 
 If we know the fun we are going for, then we CAN be specific about a particular part of the game. Take the fun "
@@ -67,14 +67,14 @@ and feedback. So much so people make videos about it.
 https://youtu.be/QmQZg2990ck
 Or take rhythm games for example. If we take out the music and visual feedback, would you still want to play it? It
 could still be "fun" because it fulfills the "mastery" fun. I suspect most people would want some audio and visual
-feedback. Dwarf Fortress and ASCII games might be an counterexample, though will there be anyone that says a graphic
+feedback. Dwarf Fortress and ASCII games might be a counterexample, though will there be anyone that says a graphic
 upgrade will ruin the game? Fundamentally, the formal elements wouldn't have changed.
 
 ## Back to the article.
 
 All this is not to say I disagree with the author or Jenova Chen said about how games are more than the sum of
 individual parts. There are a lot of emergent properties (emergent gameplay) that can arise. Is emergent gameplay just
-something that designer didn't design for but could have designed for? After you seeing an supposed emergent gameplay
+something that designer didn't design for but could have designed for? After you see a supposed emergent gameplay
 show up in one game, couldn't you replicate it in your own game?
 
 It's just that, there can definitely be compelling game mechanics - if you know the effect you want. Knowing the fun you
@@ -86,7 +86,7 @@ difficult to balance.
 ## Final Thoughts
 
 Maybe when I decide to specifically make a commercial game to make loads of money, I would want to consider more about
-target audience. For now, I think i am more interested in what kind of fun I like, how I can achieve that through
+target audience. For now, I think I am more interested in what kind of fun I like, how I can achieve that through
 different mechanisms and features, and adjust as necessary to include other types of fun at minimal effort to broaden
 the appeal.
 

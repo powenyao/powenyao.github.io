@@ -10,8 +10,4 @@ It led to my PhD dissertation <a href="../../publication/2024-01-26-phd">
 <i class="fas fa-fw fa-arrow-right" aria-hidden="true">
 </i>"Design Lenses for 3D User Interfaces in Extended Reality"</a>.
 
-
-
 (Under Construction)
-
-Continuation

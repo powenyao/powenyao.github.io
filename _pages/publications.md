@@ -25,7 +25,7 @@ First Author entries are marked with a <i class="fa fa-star" aria-hidden="true">
 <hr>
 
 <figure style="float:right; max-width: 350px">
-<img src='../../images/portfolio/voodoo-doll-350.png' alt="Voodoo Doll for Privacy Options">
+<img src='/images/portfolio/voodoo-doll-350.png' alt="Voodoo Doll for Privacy Options">
 <figcaption>A Voodoo Doll representing the user's privacy and self-expression options. Different body parts serve as proxies for user interaction</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ First Author entries are marked with a <i class="fa fa-star" aria-hidden="true">
 * <i class="fa fa-star" aria-hidden="true"></i>
   <a href="https://doi.org/10.1007/978-3-030-78642-7_48">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
-  Virtual Equipment System: expansion to address alternate contexts
+  Virtual Equipment System: Expansion to address alternate contexts
 * <i class="fa fa-star" aria-hidden="true"></i>
   <a href="https://doi.org/10.1109/VRW52623.2021.00256">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
@@ -63,11 +63,12 @@ First Author entries are marked with a <i class="fa fa-star" aria-hidden="true">
 <br>
 <br>
 <br>
+<br>
 
 <hr>
 
 <figure style="max-width: 400px; float:right">
-<img src='../../images/portfolio/smarthome-350.png' alt="Simulated Smarthome using Virtual Reality">
+<img src='/images/portfolio/smarthome-350.png' alt="Simulated Smarthome using Virtual Reality">
 <figcaption>Using Natural Language Processing in combination with spatial interactiono to control smart home appliances</figcaption>
 </figure>
 
@@ -126,7 +127,12 @@ First Author entries are marked with a <i class="fa fa-star" aria-hidden="true">
   Flick Typing: A New VR Text Input System Based on Space Gestures
 
 <hr>
+
 **General**
+
+<iframe src="https://drive.google.com/file/d/1gtc7j-PEGidivY4tl4HiWz4Mrsv9IEBi/preview"
+width="480" height="360" allow="autoplay" style="float:right"></iframe>
+
 * <i class="fa fa-star" aria-hidden="true"></i>
   <a href="https://link.springer.com/chapter/10.1007/978-3-031-36004-6_47">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>

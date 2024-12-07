@@ -11,7 +11,7 @@ redirect_from:
 -->
 <div id='top'></div>
 
-My speciality is best described by:
+My specialty is best described by:
 
 * <a href="#sui"><i class="fas fa-fw fa-arrow-down" aria-hidden="true"></i>Spatial User Interface</a>
 * <a href="#games"><i class="fas fa-fw fa-arrow-down" aria-hidden="true"></i>Games</a>
@@ -29,8 +29,8 @@ My Computer Science PhD dissertation is <a href="../../publication/2024-01-26-ph
 </i>"Design Lenses for 3D User Interfaces in Extended Reality"</a>
 
 <figure style="float:right; max-width: 350px">
-<img src='../../images/portfolio/vesconcept-350.jpg' width="350" alt="Concept Image for Virtual Equipment System.">
-<figcaption>An user is shown interacting with Virtual Headphones to adjust audio settings. Other Virtual Equipment shown include utility belt, bracer, and microphone</figcaption>
+<img src='/images/portfolio/vesconcept-350.jpg' width="350" alt="Concept Image for Virtual Equipment System.">
+<figcaption>An user is shown interacting with Virtual Headphones to adjust audio settings. Other Virtual Equipment shown include utility belt, bracer, `and` microphone</figcaption>
 </figure>
 
 What started as a desire to "get more buttons for XR interactions" has since turned into a framework for
@@ -39,8 +39,8 @@ What started as a desire to "get more buttons for XR interactions" has since tur
 The theoretical portion includes:
 
 * **Design Lenses** - Hyperphysical User Interface, Whole-Body Interaction, and Extramdimensional Space
-* **Multi-dimensional Taxonomy of Gestures** - classification improves understanding and allow generation of novel
-  techniques in under-utilized area
+* **Multi-dimensional Taxonomy of Gestures** - classification improves understanding and allows generation of novel
+  techniques in under-utilized areas
 * **Spatial Interaction Model** - for use in combination with design lenses and taxonomy to create new interaction
   techniques
 
@@ -48,13 +48,13 @@ The practical portion includes:
 
 * <b><a href="../../portfolio/portfolio-SSS/">
   <i class="fas fa-fw fa-arrow-right" aria-hidden="true">
-  </i>School of Spatial Sorcery</a></b> A sandbox containing a series of exploratory prototypes for novel 3D UI/UX
+  </i>School of Spatial Sorcery</a></b> - A sandbox containing a series of exploratory prototypes for novel 3D UI/UX
 * **Virtual Equipment System**
 * **Extradimensional Space Storage**
 
 Together, they demonstrate a path forward to design space for Extended Reality User Interface
 and User Experience beyond the traditional 2D UI/UX. "Any sufficiently advanced technology is indistinguishable from
-magic."[^1] and I'm here to push the boundary.
+magic,"[^1] and I'm here to push the boundary.
 
 
 <hr>
@@ -65,24 +65,24 @@ Games<a href="#top"><i class="fas fa-fw fa-arrow-up" aria-hidden="true"></i></a>
 =
 
 <figure style="float:left; max-width: 350px">
-<img src='../../images/portfolio/Arkposter_West_Compressed-350.jpg' style="padding:3px;border:thin solid white;" alt="Arkology Concept Poster for the western market.">
+<img src='/images/portfolio/Arkposter_West_Compressed-350.jpg' style="padding:3px;border:thin solid white;" alt="Arkology Concept Poster for the western market.">
 <figcaption>A commander holding holographic planet surrounded by spaceships in her hand.</figcaption>
 </figure>
 
-My passion in games, building games, and my experiences teaching games in various game project courses has provided me
+My passion for games, building games, and my experiences teaching games in various game project courses have provided me
 with a wealth of experience.
-Other than art, I have dabbled in most areas of game creation such as engineering, design, and production.
+Other than art, I have dabbled in most areas of game creation, such as engineering, design, and production.
 I have led many teams to create games, often serving as the team lead, design lead, engineer lead, or all of the above.
 
 My role at USC has evolved as the game industry and the USC game program changed and evolved.
-From a computer science students to restructuring and lecturing for a class of 90, I have been, learned, and taught at
+From a computer science student to restructuring and lecturing for a class of 90, I have been, learned, and taught in
 many different roles.
 
-In particular, my time teaching and working with students of different background and experience level has helped me
+In particular, my time teaching and working with students of different backgrounds and experience levels has helped me
 grow tremendously as
 a game developer.
 
-I have mentored and guided students to take some wild combination of genres, themes, and ideas to fruition.
+I have mentored and guided students to take some wild combinations of genres, themes, and ideas to fruition.
 
 Consider:
 <ul>
@@ -94,7 +94,7 @@ Consider:
   <i class="fas fa-fw fa-video-camera" aria-hidden="true">
   </i>Presentation</a>
 </li>
-<li>Puzzle Platformer where player controls 2 characters with 1 control
+<li>Puzzle Platformer where the player controls two characters with one control
   <a href="https://vinaygupta23.itch.io/alter-ego">
   <i class="fas fa-fw fa-gamepad" aria-hidden="true">
   </i></a>,
@@ -181,16 +181,16 @@ User accessing spells through the use of Cloak Space
 User accessing spells through the use of Sleeve Space. Both techniques utilize the extradimensional space anchored below the user's forearm, but can retrieve different items based on the direction of the entry
 </figcaption>
 </figure>
-Innovation is a often thrown around term that's highly sought after by many.
+Innovation is an often thrown-around term that's highly sought after by many.
 
 * In industry, it's in meetings, marketing, branding, etc.
-* In academia, scholars need to examine prior works and produce novel work.
+* In academia, scholars need to examine prior works and produce novel works.
 * In game class at USC, we ask students to create games with innovative mechanics.
 
 But how does one innovate? When is something innovative and when is it just different, but for the worse?
 
 Often, an innovative work may reference some source of inspiration,
-such as the Go Go Gadget of
+such as the Go-Go Gadget of
 <a href="https://en.wikipedia.org/wiki/Inspector_Gadget">
 <i class="fas fa-fw fa-link" aria-hidden="true">
 </i>Inspector Gadget</a>
@@ -199,9 +199,9 @@ the <a href="https://dl.acm.org/doi/pdf/10.1145/237091.237102">
 <i class="fas fa-fw fa-link" aria-hidden="true">
 </i>go-go interaction technique</a>.
 What if all your inspiration has been done by someone else? Alternatively, how do we encourage those without
-inspirations to innovate?
+inspiration to innovate?
 
-To innovate is a common recurring challenge I face in my teaching, PhD, and personal work.
+To innovate is a recurring challenge in my teaching, PhD, and personal work.
 Bolstered by my academic background, my approach and weapon of choice is to truly understand the problem:
 
 * Break the problem down to its fundamental components
@@ -211,7 +211,7 @@ Bolstered by my academic background, my approach and weapon of choice is to trul
 * Evaluate and improve the process
 
 Breaking down a genre and creating a game mechanics matrix can do wonders for identifying room for innovation.
-This was incorporated into the Mobile Game class at University of Southern California, aimed at general computer science
+This was incorporated into the Mobile Game class at the University of Southern California, aimed at general computer science
 students not specialized in games.
 I created lectures and exercises to help them catch up and innovate.
 

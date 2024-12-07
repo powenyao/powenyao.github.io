@@ -16,10 +16,10 @@ Download <a href="/files/powen-yao-resume.pdf" download>
 Education
 ======
 
-* Ph.D in Computer Science, 2024 @ University of Southern California
+* Ph.D. in Computer Science, 2024 @ University of Southern California
   * Dissertation:
     <a href="/publication/2024-01-26-phd">
-    <i class="fas fa-fw fa-file-pdf" aria-hidden="true">
+    <i class="fas fa-fw fa-arrow-right" aria-hidden="true">
     </i>Design Lenses for Extended Reality</a>
 * M.S. in Computer Science, 2012 @ University of Southern California
 * B.S. in Electrical Engineering, 2010 @ University of California, Irvine
