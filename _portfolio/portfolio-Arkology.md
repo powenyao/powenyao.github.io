@@ -29,10 +29,10 @@ Presented at Taipei Game Show[^1], Intel University Game Showcase at GDC[^2], an
 
 As I had to return to my home country to serve the mandatory military service, we did not end up publishing our work at
 the time.
-Nonetheless, many of these concepts incorporated and continued in [XROS UI](../_portfolio/portfolio-XROSSUI.md)
+Nonetheless, many of these concepts are incorporated and continued in [XROSS UI](/portfolio/portfolio-XROSSUI)
 
 <b>Customizable User Interface</b>
-<br>User Interfaces that allow user to modify based on their preference.
+<br>CUIs are User Interfaces that allow users to modify the settings based on their preferences.
 
 Example
 
@@ -44,18 +44,17 @@ Example
 * [UI Chandelier](https://youtu.be/KoWxXwPk2WE?t=11) for UI that are infrequently accessed.
     * The chandelier resides above the main interaction zone, so that these infrequently accessed information will not
       get in the way of the most common interaction and vision.
-      When the user do need to access these infrequently accessed info, the user simply has to pull down the chandelier
+      When the user does need to access these infrequently accessed info, the user simply has to pull down the chandelier
       from above. O`
       Once pulled down, the user can rotate the chandelier to quickly access other menus.
       The user can also place menus on different locations of the chandlier based on the socket system.
 
 <b>Tailored User Interface</b>
-<br>User Interfaces that the system modify based on what's known about the user (e.g., user height, arm length, etc.)
+<br>TUIs are User Interfaces that are modified by a system based on what's known about the user (e.g., user height, arm length, etc.).
 
 Example
 
-* [Tutorial Posters](https://youtu.be/KoWxXwPk2WE?t=8) uses User Height to set height to be around the user eye levelfor
-  easy reading
+* [Tutorial Posters](https://youtu.be/KoWxXwPk2WE?t=8) uses User Height to set height to be around the user eye level for easy reading
 * [Command Table](https://youtu.be/KoWxXwPk2WE?t=16) uses User Height to set height to be around the user's waist,
   roughly 1/2 of user height. The user can also grab the edge of the table to further customize it as desired.
 

@@ -84,28 +84,28 @@ a game developer.
 
 I have mentored and guided students to take some wild combinations of genres, themes, and ideas to fruition.
 
-Consider:
+Consider these student games:
 <ul>
 <li>2nd person perspective stealth game
   <a href="https://stevenalexander1.github.io/csci-526-tbl-gold/">
   <i class="fas fa-fw fa-gamepad" aria-hidden="true">
-  </i></a>,
+  </i></a> |
   <a href="https://www.youtube.com/watch?v=vFcHLunHHvg">
   <i class="fas fa-fw fa-video-camera" aria-hidden="true">
   </i>Presentation</a>
 </li>
-<li>Puzzle Platformer where the player controls two characters with one control
+<li>Puzzle platformer where the player controls two characters with one control
   <a href="https://vinaygupta23.itch.io/alter-ego">
   <i class="fas fa-fw fa-gamepad" aria-hidden="true">
-  </i></a>,
+  </i></a> |
   <a href="https://drive.google.com/file/d/1GJ2TCMG1Imdom3gJtshcjVMjB6-QXmWZ/view">
   <i class="fas fa-fw fa-video-camera" aria-hidden="true">
   </i>Presentation</a>
 </li>
-<li>Platformer with Arithmetics and Angry Bird's Slingshot Mechanic
+<li>Platformer with arithmetics and Angry Birds' slingshot mechanic
   <a href="https://meivenka.github.io/mamchickTesting/">
   <i class="fas fa-fw fa-gamepad" aria-hidden="true">
-  </i></a>,
+  </i></a> |
   <a href="https://www.youtube.com/watch?v=7lxmrjzgCgw">
   <i class="fas fa-fw fa-video-camera" aria-hidden="true">
   </i>Presentation</a>
@@ -113,7 +113,7 @@ Consider:
 <li>Innovative rhythm games without relying on new hardware
   <a href="https://www.youtube.com/watch?v=3pVygx2pwKw">
   <i class="fas fa-fw fa-video-camera" aria-hidden="true">
-  </i>Presentation 1</a>,
+  </i>Presentation 1</a> |
   <a href="https://www.youtube.com/watch?v=ZU46jyNDn4s">
   <i class="fas fa-fw fa-video-camera" aria-hidden="true">
   </i>Presentation 2</a>, result in this
@@ -128,10 +128,10 @@ Consider:
 </li>
 <!--
 <li>
-See detailed discussion at
-<a href="/teaching/2019-2023-select-student-games">
+See
+<a href="/teaching/2022-2023-select-student-games-discussion">
 <i class="fas fa-fw fa-arrow-right" aria-hidden="true">
-</i>Select Student Games</a>
+</i>Select Student Games Discussion</a>
 </li>
 -->
 </ul>
@@ -192,13 +192,13 @@ But how does one innovate? When is something innovative and when is it just diff
 Often, an innovative work may reference some source of inspiration,
 such as the Go-Go Gadget of
 <a href="https://en.wikipedia.org/wiki/Inspector_Gadget">
-<i class="fas fa-fw fa-link" aria-hidden="true">
+<i class="fas fa-fw fa-external-link" aria-hidden="true">
 </i>Inspector Gadget</a>
 inspiring
 the <a href="https://dl.acm.org/doi/pdf/10.1145/237091.237102">
-<i class="fas fa-fw fa-link" aria-hidden="true">
+<i class="fas fa-fw fa-external-link" aria-hidden="true">
 </i>go-go interaction technique</a>.
-What if all your inspiration has been done by someone else? Alternatively, how do we encourage those without
+What if all your inspiration has been done by someone else? How can you take it further? Alternatively, how do we encourage those without
 inspiration to innovate?
 
 To innovate is a recurring challenge in my teaching, PhD, and personal work.
@@ -216,12 +216,10 @@ students not specialized in games.
 I created lectures and exercises to help them catch up and innovate.
 
 <!--
-[Select Student Games](../teaching/2019-2023-select-student-games)
-[SSS2](/teaching/2019-2023-select-student-games)
-See detailed discussion at
-<a href="../teaching/2019-2023-select-student-games">
+See 
+<a href="/teaching/2022-2023-select-student-games-discussion">
 <i class="fas fa-fw fa-arrow-right" aria-hidden="true">
-</i>Select Student Games</a>
+</i>Select Student Games Discussion</a>
 -->
 
 See the lectures on innovation at <a href="../teaching/2019-2023-teaching#lectures">
@@ -233,4 +231,4 @@ See the lectures on innovation at <a href="../teaching/2019-2023-teaching#lectur
 
 # Footnote
 
-[^1]: From Arthur C. Clarke's [Three Laws](https://en.wikipedia.org/wiki/Clarke%27s_three_laws).
+[^1]: From Arthur C. Clarke's [Three Laws](https://en.wikipedia.org/wiki/Clarke%27s_three_laws)

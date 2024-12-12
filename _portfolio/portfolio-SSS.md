@@ -18,8 +18,8 @@ project is to create an environment for developers and users to build, experimen
 to utilize three-dimensional (3D) space in virtual reality.
 
 To this end, the user is placed in a sandbox environment with instructions on the spellcasting system, the equipment
-system, and the various equipment and how they enable different spatial interactions to cast spells. In addition, a
-simple shooting range to get familiar with the different spatial interactions.
+system, and the various equipment and how they enable different spatial interactions to cast spells. 
+A simple shooting range allows the user to get familiar with the different spatial interactions.
 
 # Spellcasting System
 

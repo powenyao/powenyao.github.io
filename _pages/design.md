@@ -33,9 +33,10 @@ Some of them got to the Design Document Stage!
 
 ## Game Design Documents
 
-*
+<!--
 2024/04 - [Can We Dance?](https://docs.google.com/document/d/1CyTrugGigIWGb-BTb1kEcYl-bE-LE-r4DF35cVeFrIw/edit?usp=sharing) -
 A Party Game about Dancing for beginners and experts.
+-->
 *
 2024/03 - [For Terra](https://docs.google.com/document/d/11ztopxKPuGqGPfGdW7P6P5-BMriHVUvi6ybxSjElCtw/edit?usp=sharing) -
 A Tableau Building Game about Terraform and Colonization.

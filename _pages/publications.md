@@ -75,7 +75,7 @@ First Author entries are marked with a <i class="fa fa-star" aria-hidden="true">
 **Machine Learning**
 
 * <i class="fa fa-star" aria-hidden="true"></i>
-  <a href="10.1109/VRW55335.2022.00195">
+  <a href="http://doi.org/10.1109/VRW55335.2022.00195">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   <a href="https://www.youtube.com/watch?v=nKgjwGd8ZOs">
   <i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>
@@ -93,7 +93,7 @@ First Author entries are marked with a <i class="fa fa-star" aria-hidden="true">
   <a href="https://www.youtube.com/watch?v=sxZ52EbNGOk">
   <i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>
   Virtual equipment system: toward peripersonal equipment slots with machine learning
-* <a href="https://doi.org/10.1145/3485279.348530">
+* <a href="https://doi.org/10.1145/3485279.3485302">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   <a href="https://youtu.be/fIc8kDsGu6M">
   <i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>
@@ -112,10 +112,10 @@ First Author entries are marked with a <i class="fa fa-star" aria-hidden="true">
 **Text Entry**
 
 * <i class="fa fa-star" aria-hidden="true"></i>
-  <a href="https://doi.org/10.1145/3385959.34217">
+  <a href="https://doi.org/10.1145/3385959.3421722">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   Punch typing: Alternative method for text entry in virtual reality
-* <a href="10.1109/VRW55335.2022.00295">
+* <a href="https://doi.org/10.1109/VRW55335.2022.00295">
   <i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
   <a href="https://youtu.be/3U6LZ25O-xc">
   <i class="fas fa-fw fa-video-camera" aria-hidden="true"></i></a>

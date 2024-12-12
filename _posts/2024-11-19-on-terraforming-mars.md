@@ -44,7 +44,7 @@ Felt more like a buzzword.
 From what I remember, they were describing something akin to the Baron Dragon in League of Legends.
 You can fight it together, but only one team will get the benefits.
 That doesn't really seem like the teams have an incentive to cooperate. I get no benefit from you killing the dragon.
-I am only there to stop you from getting the buff and that I get the buff instead.
+I am only there to stop you from getting the buff or to get the buff for myself instead.
 
 TM: AE is a form of coopetition.
 We are all working towards impacting a common goal, though our contribution will decide the victor.
@@ -67,7 +67,7 @@ For better or for worse, TM: AE does not feature spatial locations that player c
 That means there are less for players to think about.
 You don't have to worry where your card goes, it simply goes into the tableau, and you benefit from having them.
 This shifts the player attention onto other matters.
-Its more macro than micro.
+It's more macro than micro.
 Playing some games where you have to do base building, sometimes I get tired of worrying about the layout.
 For some, its fun. For others, it quickly becomes a chore.
 (And for some complicated factory game without templates, it's a job)

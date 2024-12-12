@@ -95,7 +95,7 @@ and my time playing the Tabletop Role-playing Game Shadowrun in college.
 
 Whereas before I have primarily focused on cooperative games, now I'm broadening my relationship with Tabletop Games.
 
-I've been working on my own tabletop game called [For Terra](/_portfolio/portfolio-For-Terra.md) and even drafting up
+I've been working on my own tabletop game called [For Terra](/portfolio/portfolio-For-Terra) and even drafting up
 a [Course Design Document: Tabletop Games](https://docs.google.com/document/d/1yE3UHDJB2TIUaLWQSUkSK-cO_dg5cdq_6roOVqEz-4I/edit#heading=h.4eumze6z9666)
 
 ## Food

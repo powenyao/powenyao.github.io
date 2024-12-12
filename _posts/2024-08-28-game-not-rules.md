@@ -24,7 +24,7 @@ that and other GDD would inevitably have something like:
 At that time, I probably thought wow game design documents have to be so formal, I don't even know what my target
 audience is other than me. I don't know what kind of audience are out there. There is so much to learn.
 
-That or I thought wow that information is not really useful. Then again, condensed information often is.
+That or I thought, 'Wow, that information is not really useful.' Then again, condensed information often is.
 
 I think I disagree with the author in that there is no one thing you can name that makes a good watch. I think a good
 watch needs to be able to tell time. It also should be portable.

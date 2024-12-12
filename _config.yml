@@ -41,7 +41,7 @@ repository               : "powenyao/powenyao.github.io"#"academicpages/academic
 
 #Powen: Added to address the warning "No GitHub API authentication could be found."
 #https://github.com/github/pages-gem/issues/399
-#github: [metadata]
+github: [metadata]
 
 seo_description          : "Site for Powen Yao"
 
